@@ -4,6 +4,7 @@ body{
     align-items: center;
     background-color: palevioletred;
     color: rgb(43, 21, 59);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 nav{
     height: 50vh;
@@ -50,7 +51,7 @@ img{
 .image-container { 
     position: relative;
     width: 400px;
-    height: 300px;
+    height: 400px;
     overflow: hidden;
 }
 
