@@ -3,13 +3,13 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    font-family: Arial, sans-serif;
-    background-color: #f4f4f4;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: #deb4ec;
 }
 
 .volume-wrapper {
     text-align: center;
-    background-color: #fff;
+    background-color: #f1e8f0;
     border-radius: 10px;
     box-shadow: 0 4px 8px rgba(0,0,0,0.1);
     padding: 20px;
@@ -22,7 +22,7 @@ button {
     cursor: pointer;
     margin: 10px;
     border: none;
-    background-color: #007BFF;
+    background-color: #bb1414;
     color: white;
     border-radius: 5px;
     outline: none;
