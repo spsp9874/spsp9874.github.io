@@ -24,6 +24,5 @@ document.getElementById('decrease-volume').addEventListener('click', () => {
     }
 });
 
-// Initialize the audio player volume and play it
 audioPlayer.volume = currentVolume / 100;
-audioPlayer.play(); // Ensure the sound starts playing when the page loads
+audioPlayer.play(); 
