@@ -39,5 +39,12 @@ button:active {
 #volume-display {
     margin-bottom: 20px;
     font-size: 24px;
-    color: #333;
+    color: rgb(41, 23, 112);
+}
+
+p {
+    margin-top: 0;
+    margin-bottom: 15px;
+    font-size: 16px;
+    color: rgb(41, 23, 112);
 }
